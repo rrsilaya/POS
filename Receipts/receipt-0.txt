@@ -1,0 +1,11 @@
+Items: 1
+Total: Php 345.00
+
+Item Code: CC
+Item Size: 1pc
+Qty: 5
+Total: Php345.00
+
+
+Received Amt: Php 345.00
+Change: Php 0.00

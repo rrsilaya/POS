@@ -1,0 +1,10 @@
+Items: 1
+Total: Php 150.00
+
+Item Code: CH1
+Item Size: Regular
+Qty: 3
+Total: Php 150.00
+
+Received Amt: Php 150.00
+Change: Php 0.00

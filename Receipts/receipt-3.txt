@@ -1,0 +1,11 @@
+Items: 1
+Total: Php 80.00
+
+Item Code: SL
+Item Size: Bottle
+Qty: 2
+Total: Php80.00
+
+
+Received Amt: Php 80.00
+Change: Php 0.00

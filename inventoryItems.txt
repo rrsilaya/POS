@@ -1,0 +1,7 @@
+6
+1%CC%Chicken Cheer%2%1pc%69.00%65.00%0.00%5%2pcs%89.00%85.00%0.00%8%
+1%FF%French Fries%2%Regular%30.00%23.00%10.00%7%Large%40.00%33.00%0.00%10%
+2%PJ%Pineapple Juie%2%Regular%20.00%0.00%5.00%10%Large%40.00%0.00%0.00%6%
+2%SL%Sola%1%Bottle%40.00%0.00%0.00%6%
+3%PM%Peach Mango Tart%1%1pc%30.00%0.00%0.00%10%
+3%SC%Swirly Chobits%1%Cup%25.00%0.00%0.00%8%
