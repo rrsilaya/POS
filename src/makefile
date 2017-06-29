@@ -1,5 +1,4 @@
 compile:
-	gcc pos.c -o ../JollyDoPOS
-	cd .. && ./JollyDoPOS
+	clear && gcc pos.c -o ../JollyDoPOS && cd .. && ./JollyDoPOS
 run:
-	cd .. && ./JollyDoPOS
+	clear && cd .. && ./JollyDoPOS
